@@ -1,120 +1,120 @@
-[
+[  
   {
-    "country" : "austria", 
-    "phone": "+43",
-    "web": ".at",
-    "language": "Allemand"
-  },
-  {
-    "country" : "benin", 
-    "phone": "+229",
-    "web": ".bj",
-    "language": "Français"
-  },
-  {
-    "country" : "cameroon", 
-    "phone": "+237",
-    "web": ".cm",
-    "language": "Français"
-  },
-  {
-    "country" : "cuba", 	  
-    "phone": "+53",
-    "web": ".cu",
-    "language": "Espagnol"
-  },
-  {
-    "country" : "egypt",
-    "phone": "+20",
-    "web": ".eg",
-    "language": "Arabe"
-  },
-  {
-    "country" : "finland",
-    "phone": "+358",
-    "web": ".fi",
-    "language": "Finnois"
-  },
-  {
-    "country" : "france",
-    "phone": "+33",
-    "web": ".fr",
-    "language": "Français"
-  },
-  {
-    "country" : "germany",
+    "country" : "Allemagne",
     "phone": "+49",
     "web": ".de",
     "language": "Allemand"
   },
   {
-    "country" : "ireland",
-    "phone": "+353",
-    "web": ".ie",
-    "language": "Irlandais"
+    "country" : "Autriche", 
+    "phone": "+43",
+    "web": ".at",
+    "language": "Allemand"
   },
   {
-    "country" : "jordan",
-    "phone": "+962",
-    "web": ".jo",
-    "language": "Arabe"
+    "country" : "Bénin", 
+    "phone": "+229",
+    "web": ".bj",
+    "language": "Français"
   },
   {
-    "country" : "latvia",
-    "phone": "+371",
-    "web": ".lv",
-    "language": "Letton"
+    "country" : "Cameroun", 
+    "phone": "+237",
+    "web": ".cm",
+    "language": "Français"
   },
   {
-    "country" : "malta",
-    "phone": "+356",
-    "web": ".mt",
-    "language": "Maltais"
-  },
-  {
-    "country" : "mexico",
-    "phone": "+52",
-    "web": ".mx",
+    "country" : "Cuba", 	  
+    "phone": "+53",
+    "web": ".cu",
     "language": "Espagnol"
   },
   {
-    "country" : "nepal",
-    "phone": "+977",
-    "web": ".np",
-    "language": "Népalais"
+    "country" : "Egypte",
+    "phone": "+20",
+    "web": ".eg",
+    "language": "Arabe"
   },
   {
-    "country" : "rwanda",
-    "phone": "+250",
-    "web": ".rw",
-    "language": "Kinyarwanda"
-  },
-  {
-    "country" : "serbia",
-    "phone": "+381",
-    "web": ".yu",
-    "language": "Serbe"
-  },
-  {
-    "country" : "singapore",
-    "phone": "+65",
-    "web": ".sg",
-    "language": "Malais"
-  },
-  {
-    "country" : "spain",
+    "country" : "Espagne",
     "phone": "+34",
     "web": ".es",
     "language": "Espagnol"
   },
   {
-    "country" : "togo",
+    "country" : "Finlande",
+    "phone": "+358",
+    "web": ".fi",
+    "language": "Finnois"
+  },
+  {
+    "country" : "France",
+    "phone": "+33",
+    "web": ".fr",
+    "language": "Français"
+  },
+  {
+    "country" : "Irlande",
+    "phone": "+353",
+    "web": ".ie",
+    "language": "Irlandais"
+  },
+  {
+    "country" : "Jordanie",
+    "phone": "+962",
+    "web": ".jo",
+    "language": "Arabe"
+  },
+  {
+    "country" : "Lettonie",
+    "phone": "+371",
+    "web": ".lv",
+    "language": "Letton"
+  },
+  {
+    "country" : "Malte",
+    "phone": "+356",
+    "web": ".mt",
+    "language": "Maltais"
+  },
+  {
+    "country" : "Méxique",
+    "phone": "+52",
+    "web": ".mx",
+    "language": "Espagnol"
+  },
+  {
+    "country" : "Népal",
+    "phone": "+977",
+    "web": ".np",
+    "language": "Népalais"
+  },
+  {
+    "country" : "Rwanda",
+    "phone": "+250",
+    "web": ".rw",
+    "language": "Kinyarwanda"
+  },
+  {
+    "country" : "Serbie",
+    "phone": "+381",
+    "web": ".yu",
+    "language": "Serbe"
+  },
+  {
+    "country" : "Singapour",
+    "phone": "+65",
+    "web": ".sg",
+    "language": "Malais"
+  },
+  {
+    "country" : "Togo",
     "phone": "+228",
     "web": ".tg",
     "language": "Français"
   },
   {
-    "country" : "uruguay",
+    "country" : "Uruguay",
     "phone": "+598",
     "web": ".uy",
     "language": "Espagnol"
